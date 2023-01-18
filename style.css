@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #3914AF;
+}
+header{
+    background-color: #0C7C10;
+}
+footer{
+    background-color: #F37B9F;
+}
+a{
+    text-decoration: none;
+    width: 185px;
+    height: 30px;
+    left: 204px;
+    top: 47px;
+
+    background: #68EBD3;
+    border-radius: 10px;
+}
+main img{
+    width: 350px;
+    height: 200px;
+}
+footer h1{
+    background-color: white;
+}
